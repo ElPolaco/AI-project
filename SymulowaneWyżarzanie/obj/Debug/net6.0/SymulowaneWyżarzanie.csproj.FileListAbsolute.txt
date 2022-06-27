@@ -1,0 +1,15 @@
+D:\Documents\Studia\AI\SymulowaneWyżarzanie\SymulowaneWyżarzanie\bin\Debug\net6.0\SymulowaneWyżarzanie.exe
+D:\Documents\Studia\AI\SymulowaneWyżarzanie\SymulowaneWyżarzanie\bin\Debug\net6.0\SymulowaneWyżarzanie.deps.json
+D:\Documents\Studia\AI\SymulowaneWyżarzanie\SymulowaneWyżarzanie\bin\Debug\net6.0\SymulowaneWyżarzanie.runtimeconfig.json
+D:\Documents\Studia\AI\SymulowaneWyżarzanie\SymulowaneWyżarzanie\bin\Debug\net6.0\SymulowaneWyżarzanie.dll
+D:\Documents\Studia\AI\SymulowaneWyżarzanie\SymulowaneWyżarzanie\bin\Debug\net6.0\SymulowaneWyżarzanie.pdb
+D:\Documents\Studia\AI\SymulowaneWyżarzanie\SymulowaneWyżarzanie\obj\Debug\net6.0\SymulowaneWyżarzanie.csproj.AssemblyReference.cache
+D:\Documents\Studia\AI\SymulowaneWyżarzanie\SymulowaneWyżarzanie\obj\Debug\net6.0\SymulowaneWyżarzanie.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Studia\AI\SymulowaneWyżarzanie\SymulowaneWyżarzanie\obj\Debug\net6.0\SymulowaneWyżarzanie.AssemblyInfoInputs.cache
+D:\Documents\Studia\AI\SymulowaneWyżarzanie\SymulowaneWyżarzanie\obj\Debug\net6.0\SymulowaneWyżarzanie.AssemblyInfo.cs
+D:\Documents\Studia\AI\SymulowaneWyżarzanie\SymulowaneWyżarzanie\obj\Debug\net6.0\SymulowaneWyżarzanie.csproj.CoreCompileInputs.cache
+D:\Documents\Studia\AI\SymulowaneWyżarzanie\SymulowaneWyżarzanie\obj\Debug\net6.0\SymulowaneWyżarzanie.dll
+D:\Documents\Studia\AI\SymulowaneWyżarzanie\SymulowaneWyżarzanie\obj\Debug\net6.0\refint\SymulowaneWyżarzanie.dll
+D:\Documents\Studia\AI\SymulowaneWyżarzanie\SymulowaneWyżarzanie\obj\Debug\net6.0\SymulowaneWyżarzanie.pdb
+D:\Documents\Studia\AI\SymulowaneWyżarzanie\SymulowaneWyżarzanie\obj\Debug\net6.0\SymulowaneWyżarzanie.genruntimeconfig.cache
+D:\Documents\Studia\AI\SymulowaneWyżarzanie\SymulowaneWyżarzanie\obj\Debug\net6.0\ref\SymulowaneWyżarzanie.dll

@@ -1,0 +1,17 @@
+D:\Documents\Studia\AI\SymulowaneWyżarzanie\Algorytm Genetyczny\bin\Debug\net6.0\Algorytm Genetyczny.exe
+D:\Documents\Studia\AI\SymulowaneWyżarzanie\Algorytm Genetyczny\bin\Debug\net6.0\Algorytm Genetyczny.deps.json
+D:\Documents\Studia\AI\SymulowaneWyżarzanie\Algorytm Genetyczny\bin\Debug\net6.0\Algorytm Genetyczny.runtimeconfig.json
+D:\Documents\Studia\AI\SymulowaneWyżarzanie\Algorytm Genetyczny\bin\Debug\net6.0\Algorytm Genetyczny.dll
+D:\Documents\Studia\AI\SymulowaneWyżarzanie\Algorytm Genetyczny\bin\Debug\net6.0\Algorytm Genetyczny.pdb
+D:\Documents\Studia\AI\SymulowaneWyżarzanie\Algorytm Genetyczny\obj\Debug\net6.0\Algorytm Genetyczny.csproj.AssemblyReference.cache
+D:\Documents\Studia\AI\SymulowaneWyżarzanie\Algorytm Genetyczny\obj\Debug\net6.0\Algorytm Genetyczny.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Studia\AI\SymulowaneWyżarzanie\Algorytm Genetyczny\obj\Debug\net6.0\Algorytm Genetyczny.AssemblyInfoInputs.cache
+D:\Documents\Studia\AI\SymulowaneWyżarzanie\Algorytm Genetyczny\obj\Debug\net6.0\Algorytm Genetyczny.AssemblyInfo.cs
+D:\Documents\Studia\AI\SymulowaneWyżarzanie\Algorytm Genetyczny\obj\Debug\net6.0\Algorytm Genetyczny.csproj.CoreCompileInputs.cache
+D:\Documents\Studia\AI\SymulowaneWyżarzanie\Algorytm Genetyczny\obj\Debug\net6.0\Algorytm Genetyczny.dll
+D:\Documents\Studia\AI\SymulowaneWyżarzanie\Algorytm Genetyczny\obj\Debug\net6.0\refint\Algorytm Genetyczny.dll
+D:\Documents\Studia\AI\SymulowaneWyżarzanie\Algorytm Genetyczny\obj\Debug\net6.0\Algorytm Genetyczny.pdb
+D:\Documents\Studia\AI\SymulowaneWyżarzanie\Algorytm Genetyczny\obj\Debug\net6.0\Algorytm Genetyczny.genruntimeconfig.cache
+D:\Documents\Studia\AI\SymulowaneWyżarzanie\Algorytm Genetyczny\obj\Debug\net6.0\ref\Algorytm Genetyczny.dll
+D:\Documents\Studia\AI\SymulowaneWyżarzanie\Algorytm Genetyczny\bin\Debug\net6.0\GAF.Core.20.dll
+D:\Documents\Studia\AI\SymulowaneWyżarzanie\Algorytm Genetyczny\obj\Debug\net6.0\Algorytm Genetyczny.csproj.CopyComplete
